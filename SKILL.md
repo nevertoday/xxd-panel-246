@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-246
-description: "Create XXD Panel 246 raster artwork: a faithful photograph paired with a neo-constructivist conceptual collage of geometric masses, structural lines and extreme negative space. Accepts one image or a directory batch and supports top-bottom, left-right, design-only and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact or text-free typography. Use whenever the user invokes xxd-panel-246 or asks for this 新构成拼贴 style."
+description: "XXD Panel 246｜Neo-Constructivist Collage: reduces a photo to one core subject and rebuilds it as a conceptual poster in Neo-Constructivist collage — rectangles, circles, axes, grids, linear tracks and modular colour blocks set against the organic subject, a limited palette drawn from the photo (deep blue, lake teal, warm orange, coral red, off-white, charcoal, soft green), extreme asymmetric white space with the subject small, off-centre or cropped, paper texture, scan grain, halftone dots and slight misregistration, and a short title, note or number in a fine modern editorial typeface. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-246 or asks for constructivist, geometric collage or modernist conceptual poster design from a photo."
 ---
 
 # XXD Panel 246
